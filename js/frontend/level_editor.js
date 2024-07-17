@@ -1,5 +1,5 @@
-const height = 64;
-const width = 64;
+const height = 64 / 2;
+const width = 64 / 2;
 const pixelSize = 50;
 const previewScale = 8;
 let canvas;
